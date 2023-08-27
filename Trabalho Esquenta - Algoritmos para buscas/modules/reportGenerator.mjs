@@ -3,7 +3,7 @@ import * as path from 'path';
 
 export default function reportGenerator(infos, fileName) {
 
-  const filePath = path.join("data", "reports", `${fileName}.txt`);
+  const filePath = path.join("Trabalho Esquenta - Algoritmos para buscas","data", "reports", `${fileName}.txt`);
 
   fileSys.writeFile(filePath, infos, (err) => {
     if (err) {

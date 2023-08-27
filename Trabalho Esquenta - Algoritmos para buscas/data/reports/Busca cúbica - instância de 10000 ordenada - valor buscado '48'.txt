@@ -1,0 +1,12 @@
+
+  ________________Busca cúbica - instância de 10000 ordenada - valor buscado '48'_________________
+
+
+  Iterações: 5
+  Tempo Total: 94.90003 minutos
+  Memória Total: 282728.00 bytes
+
+  Tempo médio: 18.9800 minutos
+  Memória média: 56545.60 bytes
+
+  
