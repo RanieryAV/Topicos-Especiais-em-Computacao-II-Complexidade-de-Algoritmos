@@ -7,29 +7,31 @@ import {sequentialSearch_v1, sequentialSearch_v2} from "./src/sequentialSearch.m
 import quadraticSearch from "./src/quadraticSearch.mjs";
 import ternarySearch from "./src/ternarySearch.mjs";
 
+const sizeInstance = 5000
+const note = `Busca cúbica - intância de ${sizeInstance}`
 
-loadData('Trabalho Esquenta - Algoritmos para buscas/data/ordered/100.txt').then(data =>{
+loadData(`./data/ordered/${sizeInstance}.txt`).then(data =>{
 
     function algorithm(){
 
-        console.log("\n Busca Quadrática____________")
-        console.log(quadraticSearch(48, data))
+        // console.log("\n Busca Quadrática____________")
+        // console.log(quadraticSearch(48, data))
 
         console.log("\n Busca Cubica____________")
         console.log(cubicSearch(48, data))
 
-        console.log("\n Busca Binaria____________")
-        console.log(binarySearch(48, data, 0, data.length))
+        // console.log("\n Busca Binaria____________")
+        // console.log(binarySearch(48, data, 0, data.length))
 
-        console.log("\n Busca Sequencial____________")
-        console.log(sequentialSearch_v1(49, data))
+        // console.log("\n Busca Sequencial____________")
+        // console.log(sequentialSearch_v1(49, data))
 
-        console.log("\n Busca Ternaria____________")
-        console.log(ternarySearch(48, data))
-        //setTimeout(() => { console.log("Esperei 5 segundos"); }, 5000);
+        // console.log("\n Busca Ternaria____________")
+        // console.log(ternarySearch(48, data))
+
     }
 
-    measureComplexity(algorithm)
+    measureComplexity(algorithm, 5, `${note}`)
 
 });
 
