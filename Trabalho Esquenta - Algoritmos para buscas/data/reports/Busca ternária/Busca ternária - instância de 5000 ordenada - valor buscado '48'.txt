@@ -1,0 +1,12 @@
+
+  ________________Busca ternária - instância de 5000 ordenada - valor buscado '48'_________________
+
+
+  Iterações: 5
+  Tempo Total: 0.00010 minutos
+  Memória Total: 42568.00 bytes
+
+  Tempo médio: 0.0000 minutos
+  Memória média: 8513.60 bytes
+
+  

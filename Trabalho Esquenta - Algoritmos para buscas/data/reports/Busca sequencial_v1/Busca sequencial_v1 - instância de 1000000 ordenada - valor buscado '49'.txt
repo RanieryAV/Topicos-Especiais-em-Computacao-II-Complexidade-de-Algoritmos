@@ -1,0 +1,12 @@
+
+  ________________Busca sequencial_v1 - instância de 1000000 ordenada - valor buscado '49'_________________
+
+
+  Iterações: 5
+  Tempo Total: 0.00046 minutos
+  Memória Total: 78608.00 bytes
+
+  Tempo médio: 0.0001 minutos
+  Memória média: 15721.60 bytes
+
+  

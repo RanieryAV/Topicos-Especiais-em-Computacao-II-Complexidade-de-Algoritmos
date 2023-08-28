@@ -1,0 +1,12 @@
+
+  ________________Busca binária - instância de 1000 ordenada - valor buscado '48'_________________
+
+
+  Iterações: 5
+  Tempo Total: 0.00007 minutos
+  Memória Total: 42168.00 bytes
+
+  Tempo médio: 0.0000 minutos
+  Memória média: 8433.60 bytes
+
+  
