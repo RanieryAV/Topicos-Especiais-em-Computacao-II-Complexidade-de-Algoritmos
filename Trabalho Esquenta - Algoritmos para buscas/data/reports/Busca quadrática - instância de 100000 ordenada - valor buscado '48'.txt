@@ -1,0 +1,12 @@
+
+  ________________Busca quadrática - instância de 100000 ordenada - valor buscado '48'_________________
+
+
+  Iterações: 5
+  Tempo Total: 0.42950 minutos
+  Memória Total: 48640.00 bytes
+
+  Tempo médio: 0.0859 minutos
+  Memória média: 9728.00 bytes
+
+  
