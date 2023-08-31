@@ -7,18 +7,18 @@ import {sequentialSearch_v1, sequentialSearch_v2} from "./src/sequentialSearch.m
 import quadraticSearch from "./src/quadraticSearch.mjs";
 import ternarySearch from "./src/ternarySearch.mjs";
 
-const sizeInstance = 1000000
-const desiredValue=49
-const note = `Busca quadrática - instância de ${sizeInstance} ordenada - valor buscado '${desiredValue}'`
+const sizeInstance = 50000
+const desiredValue=48
+const note = `Busca cúbica - instância de ${sizeInstance} ordenada - valor buscado '${desiredValue}'`
 
 loadData(`Trabalho Esquenta - Algoritmos para buscas/data/ordered/${sizeInstance}.txt`).then(data =>{
 
     function algorithm(){
-        console.log("\n Busca Quadrática____________")
-        console.log("Value '"+ desiredValue + "' found at position: " + quadraticSearch(desiredValue, data))
+        //console.log("\n Busca Quadrática____________")
+        //console.log("Value '"+ desiredValue + "' found at position: " + quadraticSearch(desiredValue, data))
 
-        // console.log("\n Busca Cubica____________")
-        // console.log("Value '"+ desiredValue + "' found at position: " + cubicSearch(desiredValue, data))
+        console.log("\n Busca Cubica____________")
+        console.log("Value '"+ desiredValue + "' found at position: " + cubicSearch(desiredValue, data))
 
         // console.log("\n Busca Binaria____________")
         // console.log("Value '"+ desiredValue + "' found at position: " + binarySearch(desiredValue, data, 0, data.length))
