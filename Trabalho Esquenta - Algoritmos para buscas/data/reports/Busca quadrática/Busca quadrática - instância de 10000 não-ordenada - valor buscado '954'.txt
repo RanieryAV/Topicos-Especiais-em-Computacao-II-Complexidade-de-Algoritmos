@@ -1,0 +1,12 @@
+
+  ________________Busca quadrática - instância de 10000 não-ordenada - valor buscado '954'_________________
+
+
+  Iterações: 5
+  Tempo Total: 0.00247 minutos
+  Memória Total: 48728.00 bytes
+
+  Tempo médio: 0.0005 minutos
+  Memória média: 9745.60 bytes
+
+  

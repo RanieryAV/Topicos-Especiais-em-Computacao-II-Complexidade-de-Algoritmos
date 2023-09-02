@@ -8,10 +8,10 @@ import quadraticSearch from "./src/quadraticSearch.mjs";
 import ternarySearch from "./src/ternarySearch.mjs";
 
 const sizeInstance = 50000
-const desiredValue=48
-const note = `Busca cúbica - instância de ${sizeInstance} ordenada - valor buscado '${desiredValue}'`
+const desiredValue=155
+const note = `Busca cúbica - instância de ${sizeInstance} não-ordenada - valor buscado '${desiredValue}'`
 
-loadData(`Trabalho Esquenta - Algoritmos para buscas/data/ordered/${sizeInstance}.txt`).then(data =>{
+loadData(`Trabalho Esquenta - Algoritmos para buscas/data/unordered/${sizeInstance}.txt`).then(data =>{
 
     function algorithm(){
         //console.log("\n Busca Quadrática____________")
@@ -23,8 +23,8 @@ loadData(`Trabalho Esquenta - Algoritmos para buscas/data/ordered/${sizeInstance
         // console.log("\n Busca Binaria____________")
         // console.log("Value '"+ desiredValue + "' found at position: " + binarySearch(desiredValue, data, 0, data.length))
 
-        // console.log("\n Busca Sequencial____________")
-        // console.log("Value '"+ desiredValue + "' found at position: " + sequentialSearch_v2(desiredValue, data))
+        //console.log("\n Busca Sequencial____________")
+        //console.log("Value '"+ desiredValue + "' found at position: " + sequentialSearch_v2(desiredValue, data))
 
         // console.log("\n Busca Ternaria____________")
         // console.log("Value '"+ desiredValue + "' found at position: " + ternarySearch(desiredValue, data))

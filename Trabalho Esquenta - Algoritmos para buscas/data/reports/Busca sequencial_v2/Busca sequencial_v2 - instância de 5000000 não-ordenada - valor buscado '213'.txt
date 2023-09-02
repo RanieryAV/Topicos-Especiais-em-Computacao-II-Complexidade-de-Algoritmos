@@ -1,0 +1,12 @@
+
+  ________________Busca sequencial_v2 - instância de 5000000 não-ordenada - valor buscado '213'_________________
+
+
+  Iterações: 5
+  Tempo Total: 0.00008 minutos
+  Memória Total: 41968.00 bytes
+
+  Tempo médio: 0.0000 minutos
+  Memória média: 8393.60 bytes
+
+  

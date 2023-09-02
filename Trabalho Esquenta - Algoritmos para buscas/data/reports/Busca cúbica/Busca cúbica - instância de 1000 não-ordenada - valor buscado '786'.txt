@@ -1,0 +1,12 @@
+
+  ________________Busca cúbica - instância de 1000 não-ordenada - valor buscado '786'_________________
+
+
+  Iterações: 5
+  Tempo Total: 0.04740 minutos
+  Memória Total: 42016.00 bytes
+
+  Tempo médio: 0.0095 minutos
+  Memória média: 8403.20 bytes
+
+  

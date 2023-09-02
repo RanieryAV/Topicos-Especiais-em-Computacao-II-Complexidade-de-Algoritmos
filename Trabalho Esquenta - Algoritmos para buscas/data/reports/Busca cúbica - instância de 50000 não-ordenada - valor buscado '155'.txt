@@ -1,0 +1,12 @@
+
+  ________________Busca cúbica - instância de 50000 não-ordenada - valor buscado '155'_________________
+
+
+  Iterações: 5
+  Tempo Total: 464.56672 minutos
+  Memória Total: -1960648.00 bytes
+
+  Tempo médio: 92.9133 minutos
+  Memória média: -392129.60 bytes
+
+  

@@ -1,0 +1,12 @@
+
+  ________________Busca quadrática - instância de 5000000 não-ordenada - valor buscado '213'_________________
+
+
+  Iterações: 5
+  Tempo Total: 0.01244 minutos
+  Memória Total: 48728.00 bytes
+
+  Tempo médio: 0.0025 minutos
+  Memória média: 9745.60 bytes
+
+  

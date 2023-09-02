@@ -1,0 +1,12 @@
+
+  ________________Busca sequencial_v2 - instância de 200 não-ordenada - valor buscado '60'_________________
+
+
+  Iterações: 5
+  Tempo Total: 0.00009 minutos
+  Memória Total: 41928.00 bytes
+
+  Tempo médio: 0.0000 minutos
+  Memória média: 8385.60 bytes
+
+  
