@@ -1,0 +1,12 @@
+
+  ________________Busca binária no meio - instância de 500000 não-ordenada - valor buscado '249995'_________________
+
+
+  Iterações: 5
+  Tempo Total: 0.00007 minutos
+  Memória Total: 43000.00 bytes
+
+  Tempo médio: 0.0000 minutos
+  Memória média: 8600.00 bytes
+
+  
