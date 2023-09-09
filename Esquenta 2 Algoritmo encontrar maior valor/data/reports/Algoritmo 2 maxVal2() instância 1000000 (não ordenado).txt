@@ -1,0 +1,12 @@
+
+  ________________Algoritmo 2 maxVal2() instância 1000000 (não ordenado)_________________
+
+
+  Iterações: 10
+  Tempo Total: 4.08080 milisegundos | 0.00007 minutos 
+  Memória Total: 153664.00 bytes
+
+  Tempo médio: 0.40808 milisegundos | 0.00001 minutos
+  Memória média: 15366.40 bytes
+
+  

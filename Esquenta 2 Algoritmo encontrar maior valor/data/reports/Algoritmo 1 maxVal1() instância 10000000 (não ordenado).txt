@@ -1,0 +1,12 @@
+
+  ________________Algoritmo 1 maxVal1() instância 10000000 (não ordenado)_________________
+
+
+  Iterações: 10
+  Tempo Total: 232.67750 milisegundos | 0.00388 minutos 
+  Memória Total: 121568.00 bytes
+
+  Tempo médio: 23.26775 milisegundos | 0.00039 minutos
+  Memória média: 12156.80 bytes
+
+  
